@@ -2,10 +2,8 @@
 using namespace std;
 int main()
 {
-float a;
-cout<<'enter the length in cm';
-cin>>a;
-cout<<'\n the value of length in metre is'<<a/100<<'\n the value of length in km is '<<a/100000;
-// youe code goes here
+float a,b;
+cout<<"\n the third angle is "<< 180-a-b;
+// your code goes here
 return 0;
 }
